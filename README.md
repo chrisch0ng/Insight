@@ -1,4 +1,4 @@
-# Project Insight - Stock Price Prediction using LLM-powered Sentiment Analysis
+# Project Insight - Stock Price Prediction using Multiple AI Models
 
 Insight - a stock analysis web app incorporating real-time financial data analysis using DeepSeek-R1 (Perplexity Sonar API), and Sentiment Analysis using Meta’s Llama3, and stock graph technical analysis using Google’s Gemini.  
 
