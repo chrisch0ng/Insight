@@ -1,6 +1,6 @@
 # Project Insight - Stock Price Prediction using Multiple AI Models
 
-Insight - a stock analysis web app incorporating real-time financial data analysis using DeepSeek-R1 (Perplexity Sonar API), and Sentiment Analysis using Meta’s Llama3, and stock graph technical analysis using Google’s Gemini.  
+Insight - a stock prediction web app incorporating real-time financial data analysis using DeepSeek-R1 (Perplexity Sonar API), and Sentiment Analysis using Meta’s Llama3, and stock graph technical analysis using Google’s Gemini. The first iteration of this app was a simple logistic regression model focusing only on the stock’s price movements. Next, I started to incorporate large language models (LLMs) into my approach, scraping financial news and using Meta’s Llama model for sentiment analysis and  classification. After this iteration, I improved the design by adding DeepSeek R1 to query for strategies based on broader market data and specific company information.
 
 Scrapes articles relating to a stock and uses Meta's Llama3.2 Large Language Model to automate sentiment classification. Then using AutoRegressive Integrated Moving Average to predict next week's price action in relation to this week's sentiment changes in news. 
 
